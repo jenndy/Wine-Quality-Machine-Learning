@@ -1,7 +1,8 @@
 ~ Great Wines ~
 
 ### Key Question:
-What qualities of a wine will boost its review score? Determine which features of wines are predictors of getting great reviews to help businesses
+What qualities of a wine will boost its review score? 
+Determine which features of wines are predictors of getting great reviews to help businesses
 improve their reputation by identifying higher quality wine, and in turn increase wine sales.
 
 ### Abstract:
